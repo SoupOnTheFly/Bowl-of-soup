@@ -1,3 +1,3 @@
-# Bowl-of-soup
+# **Bowl-of-soup**
 
-I uploaded assignments 4, 5, and 6.
+##_I uploaded assignments_ **4, 5, and 6.**
